@@ -1,0 +1,24 @@
+-------------------------------------------------------------
+The input string 'd' was not in a correct format.
+01-02-2024 04:41:03 PM
+-------------------------------------------------------------
+The input string 'd' was not in a correct format. From main method
+01-02-2024 04:41:37 PM
+-------------------------------------------------------------
+The input string 'darshan' was not in a correct format. From main method
+01-02-2024 04:48:07 PM
+-------------------------------------------------------------
+The input string 'darshan' was not in a correct format. Error from task1 method
+01-02-2024 05:03:41 PM
+-------------------------------------------------------------
+The input string 'darshan' was not in a correct format. Error from task4 method
+01-02-2024 05:05:03 PM
+-------------------------------------------------------------
+The input string 'prince' was not in a correct format. Error from task3 method
+01-02-2024 05:05:26 PM
+--------------------------------------------------------------------------------------
+The input string ' catch (Exception e)' was not in a correct format. Error from task1 method
+01-02-2024 05:08:00 PM
+--------------------------------------------------------------------------------------
+The input string ' {' was not in a correct format. From main method
+01-02-2024 05:08:00 PM
