@@ -1,0 +1,30 @@
+-------------------------------------------------------------
+The input string '-------------------------------------------------------------' was not in a correct format.
+01-02-2024 10:43:20 AM
+-------------------------------------------------------------
+The input string 'sandip' was not in a correct format.
+01-02-2024 11:08:58 AM
+-------------------------------------------------------------
+The input string 'prince' was not in a correct format.
+01-02-2024 11:09:51 AM
+-------------------------------------------------------------
+The input string '///////////////////////' was not in a correct format.
+01-02-2024 12:03:43 PM
+-------------------------------------------------------------
+The input string '///////////////////////' was not in a correct format.
+01-02-2024 12:05:19 PM
+-------------------------------------------------------------
+The input string '///////////////////////' was not in a correct format.
+01-02-2024 12:06:18 PM
+-------------------------------------------------------------
+The input string 'd' was not in a correct format.
+01-02-2024 03:49:59 PM
+-------------------------------------------------------------
+The input string 'd' was not in a correct format.From Main Method
+01-02-2024 03:51:36 PM
+-------------------------------------------------------------
+The input string 'darshan laljibhai vaghani' was not in a correct format.From Main Method
+01-02-2024 04:14:53 PM
+-------------------------------------------------------------
+The input string 'prince' was not in a correct format.From Main Method
+01-02-2024 06:47:11 PM

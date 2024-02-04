@@ -1,0 +1,36 @@
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.exe
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.deps.json
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.runtimeconfig.json
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.pdb
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Helper.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Helper.pdb
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.AssemblyReference.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfo.cs
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.CopyComplete
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\refint\Notes.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.pdb
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.genruntimeconfig.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\ref\Notes.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.exe
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.deps.json
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.runtimeconfig.json
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Notes.pdb
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Helper.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\bin\Debug\net8.0\Helper.pdb
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.AssemblyReference.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfoInputs.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfo.cs
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.CoreCompileInputs.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.csproj.CopyComplete
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\refint\Notes.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.pdb
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\Notes.genruntimeconfig.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Notes\obj\Debug\net8.0\ref\Notes.dll

@@ -1,0 +1,22 @@
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.deps.json
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.pdb
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.AssemblyInfo.cs
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\refint\Helper.dll
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.pdb
+C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\ref\Helper.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.deps.json
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\bin\Debug\net8.0\Helper.pdb
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.AssemblyInfoInputs.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.AssemblyInfo.cs
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.csproj.CoreCompileInputs.cache
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\refint\Helper.dll
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\Helper.pdb
+D:\Downloads\Week 1\Week 1\Practice\Notes\Helper\obj\Debug\net8.0\ref\Helper.dll
